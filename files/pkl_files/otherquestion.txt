@@ -1,0 +1,53 @@
+What is the purpose of summarizing a text?
+What are the different types of summarization techniques?
+How do you determine what information is important to include in a summary?
+What is the difference between an extractive and abstractive summary?
+How do you evaluate the quality of a summary?
+What are some common challenges in summarizing text?
+What role does context play in summarization?
+What is the difference between a summary and a paraphrase?
+How do you summarize a long document?
+What are some tools and technologies that can assist with summarization?
+What is the difference between revenue and profit?
+How do you calculate gross profit margin?
+What is a balance sheet?
+What is a cash flow statement?
+What is a income statement?
+What is the difference between a financial statement and a tax return?
+What is the difference between an asset and a liability?
+What is the difference between book value and market value?
+What is depreciation and how is it calculated?
+What is working capital?
+How can summarization be used to improve text comprehension?
+What are the benefits and limitations of using automatic summarization tools?
+How can summarization techniques be used to improve academic writing?
+How can a summary be tailored to a specific audience or purpose?
+What are the ethical considerations when summarizing someone else's work?
+How can summarization be used in information retrieval systems?
+How can summarization techniques be applied to social media content?
+How can summarization be used to improve the accessibility of complex information?
+How can summarization techniques be used in education and training?
+How can summarization be used to improve the efficiency of knowledge transfer in organizations?
+What is a savings account?
+What is a checking account?
+What is a money market account?
+What is a certificate of deposit (CD)?
+What is a bond rating?
+What is a credit default swap (CDS)?
+What is a futures contract?
+What is a commodity?
+What is inflation?
+What is deflation?
+What is a recession?
+What is a depression?
+What is the Federal Reserve?
+What is monetary policy?
+What is fiscal policy?
+What is a budget deficit?
+What is a budget surplus?
+What is a trade deficit?
+What is a trade surplus?
+What is globalization?
+What is outsourcing?
+What is a tariff?
+What is a quota?
